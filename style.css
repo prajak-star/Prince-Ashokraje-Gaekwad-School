@@ -39,3 +39,10 @@ body{
 .movie_text span{
     color: darkblue;
 }
+#footer {
+    height: 20px;
+    background-color: white
+}
+#contact{
+   padding-top: 100px;
+}
